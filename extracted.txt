@@ -1,0 +1,44 @@
+1. Introduction
+These Terms and Conditions ("Terms") govern your use of services provided by OpenAl
+Technologies Inc. ("OpenAl", "we", "us", or "our"). By accessing or using our APIs, tools, models,
+or websites (collectively, the "Services"), you agree to be bound by these Terms.
+2. Use of Services
+2.1. You may use the Services only in accordance with these Terms and applicable laws.
+2.2. You are responsible for your use of the Services and any content you input, submit, or
+generate.
+2.3. We may suspend or terminate your access if you violate these Terms.
+3. User Content
+3.1. You retain ownership of any content you provide.
+3.2. By submitting content, you grant OpenAl a worldwide, royalty-free license to use, host,
+store, reproduce, and display such content as necessary to operate the Services.
+4. Prohibited Uses
+You may not use the Services to:
+Violate laws or regulations.
+Generate harmful, deceptive, or misleading content.
+Attempt to reverse-engineer or disrupt the Services.
+Build competitive models or services.
+5. Intellectual Property
+All rights, title, and interest in the Services, including but not limited to the underlying models,
+code, and trademarks, are owned by OpenAl.
+6. Confidentiality
+You may not disclose any non-public information about the Services without OpenAl's prior
+written consent.
+7. Termination
+We reserve the right to suspend or terminate your access to the Services at any time, with or
+without notice, for any reason.
+8. Disclaimer
+The Services are provided "as is" without warranties of any kind, either express or implied.
+OpenAl disclaims all warranties including merchantability, fitness for a particular purpose, and
+non-infringement.
+9. Limitation of Liability
+To the maximum extent permitted by law, OpenAl shall not be liable for any indirect, incidental,
+or consequential damages resulting from the use of the Services.
+10. Indemnity
+You agree to indemnify and hold OpenAl harmless from any claims, losses, or damages
+resulting from your use of the Services or violation of these Terms.
+11. Governing Law
+These Terms shall be governed by the laws of the State of California, without regard to its
+conflict of laws principles.
+12. Changes to Terms
+OpenAl reserves the right to modify these Terms at any time. Continued use of the Services
+constitutes acceptance of the updated Terms.
