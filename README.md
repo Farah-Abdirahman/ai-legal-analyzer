@@ -2,6 +2,11 @@
 
 This project is an AI-powered legal document analyzer designed to assist lawyers and legal professionals in summarizing contracts, extracting key clauses, and identifying potential risks or unusual terms. It leverages **Amazon Bedrock** and **Amazon Textract** to process legal documents and generate insights.
 
+## Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/H5KguBDQNEM/maxresdefault.jpg)](https://www.youtube.com/watch?v=H5KguBDQNEM)
+https://youtu.be/
+
 ## Features
 
 - **Summarize Contracts**: Provides concise summaries of legal documents in bullet points.
@@ -66,10 +71,6 @@ This project is an AI-powered legal document analyzer designed to assist lawyers
 - **Amazon Textract**: Extracts text from uploaded documents.
 - **Amazon Bedrock**: Uses the Nova model to analyze legal documents.
 
-## Demo Video
-
-[![Watch the demo](https://img.youtube.com/vi/H5KguBDQNEM/maxresdefault.jpg)](https://www.youtube.com/watch?v=H5KguBDQNEM)
-https://youtu.be/
 
 ### Summary
 - Governs use of OpenAI Technologies Inc. services.
