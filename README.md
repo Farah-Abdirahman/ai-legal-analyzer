@@ -66,7 +66,10 @@ This project is an AI-powered legal document analyzer designed to assist lawyers
 - **Amazon Textract**: Extracts text from uploaded documents.
 - **Amazon Bedrock**: Uses the Nova model to analyze legal documents.
 
-## Example Output
+## Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/H5KguBDQNEM/maxresdefault.jpg)](https://www.youtube.com/watch?v=H5KguBDQNEM)
+https://youtu.be/
 
 ### Summary
 - Governs use of OpenAI Technologies Inc. services.
